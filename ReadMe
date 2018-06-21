@@ -1,0 +1,17 @@
+-- Application uses Spring Boot --
+The MVC Server listens on port 8080
+http://localhost:8080/
+
+The application works as follows:
+1. Upon receiving above url, it responds with a form that contains 3 numbers asking client to sum them
+2. Client enters and sum and submits the form
+3. If sum is correct the application responds with 'Success' else an error message and the next challenge
+
+
+Test Classes are located in test
+
+The project is developed using IntelliJ
+
+
+
+
